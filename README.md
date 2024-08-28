@@ -57,5 +57,5 @@ prompt engineering--is all about crafting questions or statement to get the best
 importance--it enhances user experience, making interaction with technology more efficient,intuitive and accessible.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-example;if you ask"what cows are best to keep" instead ask "what milk cows are best to keep"
+example;if you ask "what are the best cow to keep" instead ask "what are the best milk cows to keep"
 improved prompt is more effective since it gives  more relevant resuits.
